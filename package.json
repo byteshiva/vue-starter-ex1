@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "0.26.0",
     "core-js": "3.22.0",
-    "vue": "3.2.31",
+    "vue": "3.5.12",
     "vue-router": "4.0.12",
     "vuex": "4.0.2"
   },
